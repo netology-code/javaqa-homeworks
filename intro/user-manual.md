@@ -1,6 +1,6 @@
 # Руководство использования KeyValidator
 
-Приложение KeyValidator распространяется в виде файла [KeyValidator.class](artefacts/KeyValidator.class), предназначенного для работы на платформе Java 8+.
+Приложение KeyValidator распространяется в виде файла [KeyValidator.class](artifacts/KeyValidator.class), предназначенного для работы на платформе Java 8+.
 
 Запуск осуществляется следующим образом:
 ```shell script
