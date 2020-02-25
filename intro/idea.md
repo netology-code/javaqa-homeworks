@@ -78,7 +78,7 @@
 
 ![](pic/toolbox-step18.png)
 
-Шаг 19: Замените содержимое открывшегося файла [кодом с лекции](https://github.com/netology-code/javaqa-code/blob/master/intro/Main.java), чтобы текущее состояние соответствовало тому, что вы видите на экране:
+Шаг 19: Замените содержимое открывшегося файла [кодом с лекции](https://github.com/netology-code/javaqa-code/blob/master/intro/hello-programming/src/Main.java), чтобы текущее состояние соответствовало тому, что вы видите на экране:
 
 ![](pic/toolbox-step19.png)
 
@@ -90,5 +90,5 @@
 
 ![](pic/toolbox-step21.png)
 
-Поздравляем! Вы успешно установили и запустили первое Java-приложение.
+Поздравляем! Вы успешно установили IntelliJ IDEA и запустили первое Java-приложение.
 
