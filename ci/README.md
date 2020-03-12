@@ -122,7 +122,7 @@
 
 Мы будем использовать [Google Java Style Guide](https://checkstyle.sourceforge.io/styleguides/google-java-style-20180523/javaguide.html)
 
-Используйте приложенный файл [checkstyle.xml](artifacts/checkstyle.xml) в качестве набора правил (положите его в корень проекта и укажите в качестве настройки `configLocation`).
+Используйте приложенный файл [checkstyle.xml](assets/checkstyle.xml) в качестве набора правил (положите его в корень проекта и укажите в качестве настройки `configLocation`).
 
 Ваша задача:
 1. Подключить плагин к вашему проекту (возьмите проект с первой задачи, либо создайте новый на базе кода с лекции)
