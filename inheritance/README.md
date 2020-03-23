@@ -65,17 +65,17 @@ public class ProductManager {
 ```java
 if (product instanceof Book) {
     Book book = (Book) product;
-    if (book.getName().contains(search)) {
+    if (book.getName().equalsIgnoreCase(search)) {
       return true;
     }  
-    if (book.getAuthor().contains(search)) {
+    if (book.getAuthor().equalsIgnoreCase(search)) {
       return true;
     }  
     return false;
 }
 ```
 
-Q: Откуда взять информацию о методе `contains`?
+Q: Откуда взять информацию о методе `equalsIgnoreCase`?
 
 A: Вам нужно посмотреть [документацию на класс `String`](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html#method.summary)* (ведь `book.getName()` возвращает объект класса `String`) и подобрать необходимые методы (на ваше усмотрение). Это очень важно: знать какие классы есть в стандартной библиотеки и какие методы они предоставляют! 
 
@@ -187,4 +187,6 @@ public class Book {
   }
 }
 ```
+
+Но вы должны знать оба варианта.
 </details>
