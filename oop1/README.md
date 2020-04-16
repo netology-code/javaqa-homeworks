@@ -28,8 +28,8 @@
 Создайте на базе проекта с лекции собственный проект, в котором:
 1. Подключите плагин Surefire так, чтобы сборка падала в случае отсутсвия тестов
 1. Подключите плагин JaCoCo в режиме генерации отчётов (обрушать сборку по покрытию не нужно)
-1. Удалите `Condition` и тесты к нему
-1. Переименуйте `ConditionAdvanced` в `Condition` (Shift + F6 на имени класса)
+1. Удалите `Conditioner` и тесты к нему
+1. Переименуйте `ConditionerAdvanced` в `Conditioner` (Shift + F6 на имени класса)
 1. Реализуйте методы `public void increaseCurrentTemperature()` и `public void decreaseCurrentTemperature()`
 1. Напишите автотесты на методы из предыдущего пункта, добившись 100% покрытия по branch'ам
 1. Подключите CI на базе Github Actions и выложите всё на Github
