@@ -46,7 +46,7 @@
 public class ProductManager {
   // добавьте необходимые поля, конструкторы и методы
 
-  public Product[] searcyBy(String text) {
+  public Product[] searchBy(String text) {
     // ваш код
   }
 
@@ -183,7 +183,7 @@ public class Book {
     if (super.matches(search)) {
       return true;
     }
-    return super.matches(search) || ... ваше выражение ...;
+    return ... ваше выражение ...;
   }
 }
 ```
