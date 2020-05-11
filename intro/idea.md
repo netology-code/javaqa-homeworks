@@ -78,7 +78,7 @@
 
 ![](pic/toolbox-step18.png)
 
-Шаг 19: Замените содержимое открывшегося файла [кодом с лекции](https://github.com/netology-code/javaqa-code/blob/master/intro/hello-programming/src/Main.java), чтобы текущее состояние соответствовало тому, что вы видите на экране:
+Шаг 19: Замените содержимое открывшегося файла [кодом с лекции](https://github.com/netology-code/javaqa-code/blob/master/1.1_intro/hello-programming/src/Main.java), чтобы текущее состояние соответствовало тому, что вы видите на экране:
 
 ![](pic/toolbox-step19.png)
 
