@@ -23,11 +23,11 @@
 
 ### Легенда
 
-На лекции мы написали всего два тестовых сценария, тогда как их должно быть больше (как минимум, мы не проверили незарегистрированного пользователя).
+На лекции мы написали [всего два тестовых сценария](https://github.com/netology-code/javaqa-code/blob/master/2.3_maven-junit/bonus-calculator/src/test/java/BonusServiceTest.java), тогда как их должно быть больше (как минимум, мы не проверили незарегистрированного пользователя).
 
 Что нужно сделать:
-1. Создайте проект на базе Maven по инструкции из лекции
-1. Добавьте в проект JUnit Jupiter & Surefire Plugin новой версии
+1. Создайте проект на базе [Maven](https://github.com/netology-code/javaqa-code/blob/master/2.3_maven-junit/bonus-calculator/pom.xml) по инструкции из лекции
+1. Добавьте в проект JUnit Jupiter & Surefire Plugin
 1. Перенесите [из лекции код существующего сервиса и автотестов](https://github.com/netology-code/javaqa-code/tree/master/2.3_maven-junit/bonus-calculator)
 1. Допишите недостающие автотесты
 
