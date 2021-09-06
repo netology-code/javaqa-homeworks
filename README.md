@@ -4,7 +4,7 @@
 
 ## Блок 1. Введение в Java
 
-1.1. [x] [Введение в Java: JDK, JRE, JVM, IntelliJ IDEA](intro)
+1.1. [x] [Введение в Java](intro)
 
 1.2. [x] [Программирование на Java: переменные, операторы, работа с отладчиком](programming)
 
