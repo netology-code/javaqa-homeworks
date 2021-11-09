@@ -110,7 +110,7 @@ jobs:
 Инициализация:
 ```xml
                     <execution>
-                        <id>prepare-agent-12345qwert</id>
+                        <id>prepare-agent</id>
                         <goals>
                             <goal>prepare-agent</goal>
                         </goals>
