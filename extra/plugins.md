@@ -107,6 +107,16 @@ jobs:
                 ...
 ```
 
+Инициализация:
+```xml
+                    <execution>
+                        <id>prepare-agent-12345qwert</id>
+                        <goals>
+                            <goal>prepare-agent</goal>
+                        </goals>
+                    </execution>
+```
+
 В режиме генерации отчётов:
 ```xml
                     <execution>
