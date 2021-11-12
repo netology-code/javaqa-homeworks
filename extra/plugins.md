@@ -161,3 +161,14 @@ jobs:
             <scope>provided</scope>
         </dependency>
 ```
+
+## Mockito
+
+```xml
+        <dependency>
+            <groupId>org.mockito</groupId>
+            <artifactId>mockito-junit-jupiter</artifactId>
+            <version>3.6.28</version>
+            <scope>test</scope>
+        </dependency>
+```
