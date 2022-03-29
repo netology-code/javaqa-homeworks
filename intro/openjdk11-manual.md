@@ -35,6 +35,7 @@
 java -version
 ```
 
+Вы должны увидеть вывод подобный:
 ```
 openjdk version "11.0.5" 2019-10-15
 OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.5+10)
