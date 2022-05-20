@@ -1,6 +1,6 @@
 # Домашнее задание к занятию «1.1. Введение в Java: JDK, JRE, JVM, IntelliJ IDEA»
 
-## Вниманию студентов, обучающихся на QA, QAMID - 29, 31, 33, 35! Вам следует выполнять обновленное домашнее задание по [ссылке](https://github.com/netology-code/javaqa2-homeworks/blob/main/JAVA_INTRO.md)
+## Вниманию студентов, обучающихся на QA, QAMID - 29, 31, 33, 35! Вам следует выполнять обновленное домашнее задание из репозитория по [ссылке](https://github.com/netology-code/javaqa2-homeworks)
 
 
 Не забывайте заводить по найденным багам баг-репорты в Github Issue.
